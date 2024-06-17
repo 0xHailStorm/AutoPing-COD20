@@ -1,7 +1,6 @@
 
 # AutoPing Tool for COD 20
 
-![AutoPing Demo](path_to_your_gif.gif)
 ![Additional Image](Captures.png)
 
 ## Table of Contents
