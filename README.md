@@ -1,7 +1,7 @@
 
 # AutoPing Tool for COD 20
 
-![Additional Image](Captures.png)
+![Additional Image](Captures.PNG)
 
 ## Table of Contents
 - [Introduction](#introduction)
